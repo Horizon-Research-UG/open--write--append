@@ -1,0 +1,6 @@
+# ziel ist es
+# open zu lernen
+# im genaueren 
+## read
+## write
+## append
